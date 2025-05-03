@@ -19,7 +19,6 @@ on:
         default: 'openwrt-23.05'
         type: choice
         options:
-          - 'openwrt-24.10.1'
           - 'openwrt-24.10'
           - 'openwrt-23.05'
           - 'openwrt-21.02'
